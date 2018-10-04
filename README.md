@@ -12,11 +12,16 @@ The wearable device can be attached to the bra and worn over it, if a
 predator tries to grope the lady the sensors in the bra trigger the
 messages, alarm, pepper spray etc.
 USP of our product:
+
+
 • The predator is unaware that the person is wearing a safety
 device, so he cannot plan to escape the safety features in
 advance.
+
 • The product will be comfortable to wear and cause no discomfort
 to the person wearing the device.
+
 • Even when the lady is unable to respond due to the panic
 situation, she can be helped.
+
 • Cost effective
