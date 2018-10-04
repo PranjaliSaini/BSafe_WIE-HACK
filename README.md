@@ -8,9 +8,11 @@ victim. This system can also be connected to additional accessories like
 a pendant which could be used as a onetime pepper spray which will
 be triggered at the time of the incident to prevent the mishap like rape,
 kidnapping etc.
+
 The wearable device can be attached to the bra and worn over it, if a
 predator tries to grope the lady the sensors in the bra trigger the
 messages, alarm, pepper spray etc.
+
 USP of our product:
 
 
